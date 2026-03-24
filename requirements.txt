@@ -1,0 +1,6 @@
+discord.py==2.6.4
+pymongo==4.4.0
+dnspython==2.3.0
+Flask==2.3.3
+python-dotenv==1.0.0
+nest-asyncio==1.5.6
