@@ -494,8 +494,8 @@ async def panel(ctx):
         title="🛒 Purchase/Help",
         description=(
             "Only Create This Ticket For Buying Or Inquiry\n"
-"Check [**Prices**](<https://discord.com/channels/1476326508938137776/1476326509433323591>)\n"
-"Check [**Vouches**](<https://discord.com/channels/1476326508938137776/1476326509433323595>)"
+"Check [**LiveStock**](<https://discord.com/channels/1470845194105524297/1470905874125033502>)\n"
+"Check [**Vouches**](<https://discord.com/channels/1470845194105524297/1470906406205915385>)"
         ),
         color=discord.Color.blurple(),
         footer="Only you and our team can see your ticket."
